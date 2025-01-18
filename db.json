@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Ilya",
-            "name": "Sorokin",
+            "surname": "Sorokin",
             "email": "elijahsorokin@gmail.com",
             "status": "active",
             "balance": 1000,
