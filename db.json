@@ -8,6 +8,14 @@
             "status": "active",
             "balance": 1000,
             "role": "admin"
+        },
+        {
+            "id": 2,
+            "name": "stas",
+            "surname": "portnoy",
+            "email": "portnoystasss@gmail.com",
+            "status": "active",
+            "balance": 1000000000
         }
     ]
 }
