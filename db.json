@@ -1,6 +1,23 @@
 {
     "users": [
         {
+            "id": 1,
+            "name": "Ilya",
+            "surname": "Sorokin",
+            "email": "elijahsorokin@gmail.com",
+            "status": "active",
+            "balance": 1000,
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "name": "stas",
+            "surname": "portnoy",
+            "email": "portnoystasss@gmail.com",
+            "status": "active",
+            "balance": 1000000000
+        },
+        {
             "id": 3,
             "name": "Arhip",
             "surname": "Marunich",
@@ -8,8 +25,6 @@
             "status": "active",
             "role" : "helper",
             "balance": 10000000000000000000000000000000000000000000000000
-            
-
         }
     ]
 }
