@@ -1,5 +1,15 @@
 {
     "users": [
-        
+        {
+            "id": 3,
+            "name": "Arhip",
+            "surname": "Marunich",
+            "email": "2011arhip@gmail.com",
+            "status": "active",
+            "role" : "helper",
+            "balance": 10000000000000000000000000000000000000000000000000
+            
+
+        }
     ]
 }
