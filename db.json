@@ -1,5 +1,13 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Ilya",
+            "name": "Sorokin",
+            "email": "elijahsorokin@gmail.com",
+            "status": "active",
+            "balance": 1000,
+            "role": "admin"
+        }
     ]
 }
