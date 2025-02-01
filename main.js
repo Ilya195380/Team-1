@@ -12,14 +12,17 @@ fetch(url)
 
 
 function addProduct(product) {
-    const { name, price } = product;
+    const { name, price, description, img } = product;
 
     const item = document.createElement("div");
     item.classList.add("product");
     item.innerHTML = `
+        <img src="${img}"></img>
         <h2>${name}</h2>
-        <p>price: ${price} $.</p>
-        <hr>
+        <p>price: ${price} $</p>
+        <p>Description: ${description}</p>
+
+        
     `;
     container.appendChild(item);
 }
