@@ -31,17 +31,20 @@
         {
             "id": 1,
             "name": "iPhone",
-            "price": 1000
+            "price": 1000,
+            "description" : "the best Iphone ever"
         },
         {
             "id": 2,
             "name": "MacBook",
-            "price": 2000
+            "price": 2000,
+            "description" : "MacBook very good laptop"
         },
         {
             "id": 3,
             "name": "iPad",
-            "price": 1500
+            "price": 1500,
+            "description" : ""
         },
         {   
             "id": 4,    
