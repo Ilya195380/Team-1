@@ -42,6 +42,11 @@
             "id": 3,
             "name": "iPad",
             "price": 1500
+        },
+        {   
+            "id": 4,    
+            "name": "iMac",
+            "price": 3000
         }
     ]
 }
