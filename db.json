@@ -30,26 +30,32 @@
     "products": [
         {
             "id": 1,
+            "img" : "https://th.bing.com/th/id/OIP.burNdnKENPDW_lX2C4BrWwHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7",
             "name": "iPhone",
             "price": 1000,
             "description" : "the best Iphone ever"
         },
         {
             "id": 2,
+            "img" : "https://th.bing.com/th/id/OIP.burNdnKENPDW_lX2C4BrWwHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7",
             "name": "MacBook",
             "price": 2000,
             "description" : "MacBook very good laptop"
         },
         {
             "id": 3,
+            "img" : "https://th.bing.com/th/id/OIP.burNdnKENPDW_lX2C4BrWwHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7",
             "name": "iPad",
             "price": 1500,
-            "description" : ""
+            "description" : "you can play roblox on it"
         },
         {   
-            "id": 4,    
+            "id": 4,
+            "img" : "https://th.bing.com/th/id/OIP.burNdnKENPDW_lX2C4BrWwHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7",    
             "name": "iMac",
-            "price": 3000
+            "price": 3000,
+            "description" : "very good for watching YouTube"
+            
         }
     ]
 }
